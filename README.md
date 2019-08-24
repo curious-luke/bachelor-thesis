@@ -9,6 +9,7 @@ Data source: https://archive.org/details/twitterstream
 
 3. The final results can be visualized in Kibana.
 
+_____________________________________________________________________________________________________________________
 
 Elasticsearch version 6.6.0
 
