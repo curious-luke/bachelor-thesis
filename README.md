@@ -6,10 +6,10 @@ Data source: https://archive.org/details/twitterstream
 1. Setup your Elasticsearch cluster (local or in the cloud).
 
 2. Configure all relevant variables in the Code Setup:
-    * Path to files for downloaded datasets
-    * Identifiers for the datasets you want to analyze from archive.org
-    * Index name for Elasticsearch 
-    * Searchterms that the Tweets should be analyzed with
+      * Path to files for downloaded datasets
+      * Identifiers for the datasets you want to analyze from archive.org
+      * Index name for Elasticsearch 
+      * Searchterms that the Tweets should be analyzed with
 
 3. Setup the config file for archive.org with your user name and passwort.
 
