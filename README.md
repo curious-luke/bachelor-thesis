@@ -1,6 +1,7 @@
 # bachelor_thesis
 This repository contains the code pipeline from my prototype for a Twitter Text-Mining Tool that I developed in my bachelor thesis. Elasticsearch ist used for indexing the relevant documents and Kibana for displaying the final results in a dashboard.
 
+Article to project: https://www.degruyter.com/view/journals/iwp/71/2-3/article-p107.xml
 Data source: https://archive.org/details/twitterstream
 
 1. Setup your Elasticsearch cluster (local or in the cloud).
